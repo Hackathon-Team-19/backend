@@ -1,1 +1,5 @@
 # backend
+```
+MongoDB
+Nest.js
+````
